@@ -1,2 +1,2 @@
 import streamlit as st
-st.warn('error')
+st.warning('error')
