@@ -1,2 +1,2 @@
 import streamlit as st
-st.success('welcome to array web')
+st.info('welcome to array web')
