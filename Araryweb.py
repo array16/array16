@@ -1,2 +1,2 @@
 import streamlit as st
-st.error('This is an error')
+st.error('error loading please check the log')
